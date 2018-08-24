@@ -27,6 +27,11 @@ System.out.println("my code");
 
     }
 
+public void m1(){
+
+System.out.println("I'm learning");
+}
+
     public int mul() {
        int a = 10, b=2, c;
  	c = a*b;
