@@ -26,7 +26,8 @@ System.out.println("my code");
 	System.out.println(d);
 
     }
-
+public void ganesh(){
+}
 public void m1(){
 
 System.out.println("I'm learning");
